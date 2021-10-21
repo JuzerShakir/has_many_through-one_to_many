@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  carrier_code: MyString
+  rating: 1
+  seats: 1
+
+two:
+  name: MyString
+  carrier_code: MyString
+  rating: 1
+  seats: 1
